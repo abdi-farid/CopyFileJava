@@ -20,3 +20,17 @@ La copie de données se fait caractère par caractère en utilisant des BUFFERS
     - **Compilation** : ***javac FluxCarSansBuff.java***
     - **Exécution** : ***java FluxCarSansBuff sourceFile.txt destFile.txt***<br>
 La copie de données se fait caractère par caractère sans utiliser des **flux** (BUFFERS)
+
+
+- **octetFlux.java** : 
+    - **Compilation** : ***javac octetFlux.java***
+    - **Exécution** : ***java octetFlux sourceFile.txt destFile.txt***<br>
+La copie de données se fait octet par octet en utilisant les flux **flux** (BUFFERS)
+
+
+- **octetFluxSansBuff.java** : 
+    - **Compilation** : ***javac octetFluxSansBuff.java***
+    - **Exécution** : ***java octetFluxSansBuff sourceFile.txt destFile.txt***<br>
+La copie de données se fait octet par octet sans utiliser les **flux** (BUFFERS)
+
+
