@@ -16,3 +16,7 @@ pour utiliser un programme de copie, faites comme suit :
     - **Exécution** : ***java FluxCar sourceFile.txt destFile.txt***<br>
 La copie de données se fait caractère par caractère en utilisant des BUFFERS
       
+- **FluxCarSansBuff.java** : 
+    - **Compilation** : ***javac FluxCarSansBuff.java***
+    - **Exécution** : ***java FluxCarSansBuff sourceFile.txt destFile.txt***<br>
+La copie de données se fait caractère par caractère sans utiliser des **flux** (BUFFERS)
